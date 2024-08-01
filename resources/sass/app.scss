@@ -2,3 +2,18 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+
+*{
+    list-style-type: none!important;
+}
+
+a{
+    text-decoration: none!important;
+    color: black !important;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
